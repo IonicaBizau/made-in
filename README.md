@@ -1,14 +1,14 @@
 
-# made-in.js
+# made-in
 
- [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/made-in.js.svg)](https://www.npmjs.com/package/made-in.js) [![Downloads](https://img.shields.io/npm/dt/made-in.js.svg)](https://www.npmjs.com/package/made-in.js) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+ [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/made-in.svg)](https://www.npmjs.com/package/made-in) [![Downloads](https://img.shields.io/npm/dt/made-in.svg)](https://www.npmjs.com/package/made-in) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Get GitHub projects created by users from a specific location.
 
 ## :cloud: Installation
 
 ```sh
-$ npm i --save made-in.js
+$ npm i --save made-in
 ```
 
 
@@ -17,7 +17,7 @@ $ npm i --save made-in.js
 
 
 ```js
-const madeIn = require("made-in.js");
+const madeIn = require("made-in");
 
 // Some cool JS stuff made in Romania
 madeIn("Romania", {

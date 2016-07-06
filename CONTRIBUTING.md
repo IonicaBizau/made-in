@@ -61,6 +61,6 @@ Thanks! :sweat_smile:
 
 
 
-[1]: https://github.com/IonicaBizau/made-in.js/issues
+[1]: https://github.com/IonicaBizau/made-in/issues
 
 [2]: https://github.com/IonicaBizau/code-style

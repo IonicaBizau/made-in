@@ -42,5 +42,11 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/made-in#readme"
+  "homepage": "https://github.com/IonicaBizau/made-in#readme",
+  "dependencies": {
+    "bindy": "^1.0.4",
+    "gh.js": "^3.0.6",
+    "same-time": "^2.3.1",
+    "ul": "^5.2.2"
+  }
 }

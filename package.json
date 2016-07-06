@@ -1,5 +1,5 @@
 {
-  "name": "made-in.js",
+  "name": "made-in",
   "description": "Get GitHub projects created by users from a specific location.",
   "keywords": [
     "made",
@@ -37,12 +37,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/made-in.js.git"
+    "url": "git+ssh://git@github.com/IonicaBizau/made-in.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/made-in.js/issues"
+    "url": "https://github.com/IonicaBizau/made-in/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/made-in.js#readme",
+  "homepage": "https://github.com/IonicaBizau/made-in#readme",
   "dependencies": {
     "bindy": "^1.0.4",
     "gh.js": "^3.0.6",

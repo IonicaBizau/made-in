@@ -64,6 +64,7 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 
  - [`made-in-romania`](https://github.com/IonicaBizau/made-in-romania#readme)—A list of cool projects made in Romania.
+ - [`made-in-taiwan`](https://github.com/huei90/made-in-taiwan#readme)-A list of neat projects made in Taiwan (MIT).
 
 ## :scroll: License
 

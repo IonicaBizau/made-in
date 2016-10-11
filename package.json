@@ -16,7 +16,7 @@
     "location"
   ],
   "license": "MIT",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -47,5 +47,6 @@
     "gh.js": "^3.0.6",
     "same-time": "^2.3.1",
     "ul": "^5.2.2"
-  }
+  },
+  "blah": {}
 }

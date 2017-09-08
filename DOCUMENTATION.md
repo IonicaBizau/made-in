@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Get GitHub projects created by users from a specific location.
 
 #### Params
+
 - **String** `loc`: The user location.
 - **Object** `options`: An object containing the following fields:
  - language (String): The repository language.

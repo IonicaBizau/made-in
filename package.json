@@ -16,7 +16,7 @@
     "location"
   ],
   "license": "MIT",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
